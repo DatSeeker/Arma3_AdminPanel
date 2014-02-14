@@ -1,0 +1,1 @@
+[] execVM "adminpanel\AdminPanelMain.sqf";
